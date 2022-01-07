@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
+# JavaScript: Password Generator Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
 
