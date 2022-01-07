@@ -46,7 +46,7 @@ Test/School/Homework Purposes Only
 
 ## Credits
 
-For this Challange I referenced my code in a similar project ["RUN-BUDDY"](https://github.com/JCLOS305/run-buddy/blob/main/index.html), Youtube, Google, 
+For this Challange I referenced my code in a similar project ["ROBOT-GLADIATORS"](https://github.com/JCLOS305/robot-gladiators), Youtube, Google, 
 Instructions from my Class TA's
 - Jordan 
 - Jocelyn
