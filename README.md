@@ -56,7 +56,6 @@ Instructions from my Class TA's
 and directions from my Instructor 
 - Felicia O'Garra
 
-##
 
 ## Badges
 ![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
